@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel Lisboa! 👋
 
 - 🔭 I’m currently looking for a job!
-- 🌱 I’m currently learning JS and his APIs!
+- 🌱 I’m currently learning JS and his Libraries!
 - 👯 I’m looking to collaborate on several projects and learn more into code development!
 - 📫 How to reach me: daniellisboa2002@gmail.com
 - ⚡ Fun fact: I love coding and getting my work done!
