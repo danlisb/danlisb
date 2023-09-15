@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel Lisboa! 👋
+### Hi there, I'm Daniel! 👋
 
 - 🌱 I’m currently studying Computer Science in Federal University of Pelotas!
 - 📫 How to reach me: daniellisboa2002@gmail.com
