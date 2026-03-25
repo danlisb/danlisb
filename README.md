@@ -1,11 +1,45 @@
-### Hi there, I'm Daniel! 👋
+# 👋 Hi there, I'm Daniel!
 
-- I’m currently studying Computer Science in Federal University of Pelotas!
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## 🧠 About Me
+
+💻 Software Engineer & Computer Science student at Federal University of Pelotas (UFPel)  
+
+I have experience building APIs and web applications using Java (Spring Boot), Python, Node.js and React.  
+
+I work with both relational databases (SQL) and NoSQL solutions like Redis, focusing on performance and caching strategies, also with containerized environments using Docker.
+
+I’m interested in backend development, scalable systems, API design, and performance optimization.  
+
+## 🚀 Tech Stack
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="react" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="redis" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+<img align="center" alt="docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+
+
 </div>
+
+## 📌 Featured Projects
+🔹 E-commerce Fullstack Project
+Application built with Spring Boot (REST API), React and MySQL. Features include product and order management, and integration between frontend and backend.
+
+https://github.com/danlisb/rockexpress
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlisb&layout=compact&theme=radical"/>
+</div>
+
+## 📫 Contact
+
+💼 LinkedIn: https://www.linkedin.com/in/danlisb/  
+📧 Email: daniellisboa2002@gmail.com
