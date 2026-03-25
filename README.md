@@ -28,10 +28,18 @@ I’m interested in backend development, scalable systems, API design, and perfo
 </div>
 
 ## 📌 Featured Projects
-🔹 E-commerce Fullstack Project
-Application built with Spring Boot (REST API), React and MySQL. Features include product and order management, and integration between frontend and backend.
 
-https://github.com/danlisb/rockexpress
+🔹 [E-commerce Fullstack Project](https://github.com/danlisb/rockexpress)  
+Fullstack application with Spring Boot (REST API), React and MySQL.  
+Includes product and order management and full frontend-backend integration.
+
+🔹 [Payment Gateway API](https://github.com/danlisb/payment-gateway-api)  
+RESTful API for multi-gateway payment processing built with AdonisJS and MySQL.  
+Features transaction handling, modular architecture and scalable design.
+
+🔹 [Empire Flippers API Integration](https://github.com/danlisb/empire_flippers_app)  
+Ruby on Rails application that syncs marketplace listings to PostgreSQL and integrates with HubSpot CRM.  
+Handles external API integration and automated data synchronization.
 
 ## 📊 GitHub Stats
 
