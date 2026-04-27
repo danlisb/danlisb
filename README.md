@@ -6,7 +6,7 @@
 
 I have experience building APIs and web applications using Ruby on Rails, Java (Spring Boot), Python, Node.js and React.  
 
-Actually working as a Ruby on Rails developer, dealing with both relational databases (SQL) and NoSQL solutions like Redis, focusing on performance and caching strategies, also with containerized environments using Docker.
+Actually working as a Ruby on Rails Developer, dealing with both relational databases (SQL) and NoSQL solutions like Redis, focusing on performance and caching strategies, also with containerized environments using Docker.
 
 I’m interested in backend development, scalable systems, API design, and performance optimization.  
 
