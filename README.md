@@ -42,7 +42,7 @@ Handles external API integration and automated data synchronization.
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danlisb&layout=compact&theme=radical"/>
+  <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danlisb&layout=compact&theme=radical"/>
 </div>
 
 ## 📫 Contact
